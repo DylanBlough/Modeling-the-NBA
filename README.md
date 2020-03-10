@@ -1,7 +1,5 @@
 ## "This is How I Win:" Predicting the Outcomes of NBA Games
 
-![bettinguncut.jpg](attachment:bettinguncut.jpg)
-
 ### Created by: Dylan Blough
 [LinkedIn](https://www.linkedin.com/in/dylan-blough-b2185619a/) | [@BeerCanalytics](https://medium.com/@beercanalytics)
 
