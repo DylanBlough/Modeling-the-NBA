@@ -5,7 +5,7 @@
 
 My first foray into basketball analytics was via Dean Oliver's 4 Factors philosophy: https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/. Ever since then, I have wondered how close just using those metrics would come to predicting the outcomes of games using Machine Learning to decide the importance (weightings of the factors.
 
-My goal for this project is two-fold. First I want to test the accuracy of a model using Oliver's 4 Factors to see how accurate it is, and then try and build a model to surpass it in accuracy. Since we will be predicting the final scores of games, the metric for a model we will be looking at the most is Mean Absolute Error, or how many points away from the final score the model is. Analysis suggests that the Vegas point spreads in the NBA have Mean Absolute Error of around 8 so that will be my benchmark.
+My goal for this project is two-fold. First I want to test the accuracy of a model using Oliver's 4 Factors to see how accurate it is, and then try and build a model to surpass it in accuracy. Since we will be predicting the final scores of games, the metric for a model we will be looking at the most is Mean Absolute Error, or how many points away from the final score the model is. Analysis suggests that the Vegas point spreads in the NBA have Mean Absolute Error of around 8 so that will be my benchmark. My process 
 
 ## Table of Contents
 
